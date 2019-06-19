@@ -28,7 +28,6 @@ public class JobForm {
     @NotNull
     private int coreCompetenciesId;
 
-
     @NotNull
     private int positionTypesId;
 
