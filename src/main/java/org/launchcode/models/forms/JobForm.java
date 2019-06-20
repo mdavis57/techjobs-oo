@@ -31,6 +31,8 @@ public class JobForm {
     @NotNull
     private int positionTypesId;
 
+
+
     /*
         TODO #3 - Included other fields needed to create a job,
         with correct validation attributes and display names.
